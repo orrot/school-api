@@ -32,13 +32,13 @@ There is one endpoint that should work, once the application is running:
 - Exercise 1: return the average note for each student
     We need to know the id, the name, the grade of the student and of course the average note of all the subjects ordered from best to worse note
     Example:
-    Student 1 - Math - 4.5
-    Student 1 - Biology - 4.7
-    Student 2 - Math - 2.3
+    - Student 1 - Math - 4.5
+    - Student 1 - Biology - 4.7
+    - Student 2 - Math - 2.3
 
     The user need to see as JSON:
-    Student 1 (all the info) - 4.6
-    Student 2 (all the info) - 2.3
+    - Student 1 (all the info) - 4.6
+    - Student 2 (all the info) - 2.3
 
     NOTE: Please solve the problem using business logic at application level (Java Code).
 
@@ -49,8 +49,8 @@ There is one endpoint that should work, once the application is running:
     Retrieve the student with the best note for every subject. It does not matter the grade.
     It is only required the name of the subject.
     It is expected to return the results (as JSON):
-    Math - Orlando - 4.6
-    Biology - Manuel - 4.9
+    - Math - Orlando - 4.6
+    - Biology - Manuel - 4.9
     ...
     
 # Description of the Project
