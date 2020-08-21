@@ -1,0 +1,10 @@
+# Spring properties
+spring:
+  profiles:
+    active: dev
+  application:
+    name: school-project
+logging:
+  level:
+    root: INFO
+    org.springframework: INFO
