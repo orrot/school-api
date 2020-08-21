@@ -3,7 +3,7 @@
 - Git
 - Maven
 - JDK 11 (I think it could be tested with JDK 8, you can validate the pom java source properties and maybe the javassist library is not required in v8)
-- IDE (Optional)
+- IDE (Optional) Please, consider that the project uses Lombok, so you need to configure your IDE with lombok (In IntelliJ is just to install the plugin).
 
 # How to run the project?
 
