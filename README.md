@@ -5,7 +5,7 @@
 - JDK 11 (I think it could be tested with JDK 8, you can validate the pom java source properties and maybe the javassist library is not required in v8)
 - IDE (Optional)
 
-# How to tun the project?
+# How to run the project?
 
 - Just clone the repo as you prefer (ssh or https) 
 - Compile the project using: `mvn clean install`
