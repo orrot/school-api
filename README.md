@@ -1,9 +1,9 @@
 # Requirements
 
-Git
-Maven
-JDK 11
-IDE (Optional)
+- Git
+- Maven
+- JDK 11
+- IDE (Optional)
 
 # How to tun the project?
 
