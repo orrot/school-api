@@ -4,6 +4,7 @@ INSERT INTO subject(id, name) VALUES('B1', 'Arts');
 
 INSERT INTO student(id, name, grade) VALUES('id-111', 'Orlando', 'ONE');
 INSERT INTO student(id, name, grade) VALUES('id-222', 'Roy', 'FIVE');
+INSERT INTO student(id, name, grade) VALUES('id-333', 'Danilo', 'THREE');
 
 INSERT INTO enrolled_subject(student_id, subject_id, note) VALUES('id-111', 'A1', 2.3);
 INSERT INTO enrolled_subject(student_id, subject_id, note) VALUES('id-222', 'A1', 4.5);

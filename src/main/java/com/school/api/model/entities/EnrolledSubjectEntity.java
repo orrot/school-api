@@ -22,7 +22,9 @@ import java.io.Serializable;
 @IdClass(EnrolledSubjectEntityId.class)
 public class EnrolledSubjectEntity implements Serializable {
 
-    @Id
+	private static final long serialVersionUID = 6928015409244851878L;
+
+	@Id
     @Column(name = "subject_id")
     private String subjectId;
 
