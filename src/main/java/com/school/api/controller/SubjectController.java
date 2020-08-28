@@ -1,5 +1,6 @@
 package com.school.api.controller;
 
+import com.school.api.model.dto.BestNoteDto;
 import com.school.api.model.dto.Subject;
 import com.school.api.service.SubjectService;
 import org.springframework.beans.factory.annotation.Autowired;
@@ -22,11 +23,16 @@ public class SubjectController {
         return subjectService.list();
     }
 
-    // TODO Retrieve the student with the best note for every subject. It does not matter the grade.
+    // Retrieve the student with the best note for every subject. It does not matter the grade.
     // It is only required the name of the subject.
     // It is expected to return the results (as JSON):
     // Math - Orlando - 4.6
     // Biology - Manuel - 4.9
     // ...
+    @GetMapping( "maxnotes" )
+    public List<BestNoteDto> getBestNoteBySubject() 
+    {
+    	return subjectService.getBestNoteBySubject();
+    }
 
 }

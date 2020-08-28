@@ -1,0 +1,17 @@
+C:\Users\castrote\Documents\PSL\Spring-Kinesso-DC\school-api\src\main\java\com\school\api\service\StudentService.java
+C:\Users\castrote\Documents\PSL\Spring-Kinesso-DC\school-api\src\main\java\com\school\api\model\entities\SubjectEntity.java
+C:\Users\castrote\Documents\PSL\Spring-Kinesso-DC\school-api\src\main\java\com\school\api\controller\StudentController.java
+C:\Users\castrote\Documents\PSL\Spring-Kinesso-DC\school-api\src\main\java\com\school\api\service\impl\SubjectServiceImpl.java
+C:\Users\castrote\Documents\PSL\Spring-Kinesso-DC\school-api\src\main\java\com\school\api\service\impl\StudentServiceImpl.java
+C:\Users\castrote\Documents\PSL\Spring-Kinesso-DC\school-api\src\main\java\com\school\api\model\dto\AverageNoteDto.java
+C:\Users\castrote\Documents\PSL\Spring-Kinesso-DC\school-api\src\main\java\com\school\api\SchoolApiApplication.java
+C:\Users\castrote\Documents\PSL\Spring-Kinesso-DC\school-api\src\main\java\com\school\api\controller\SubjectController.java
+C:\Users\castrote\Documents\PSL\Spring-Kinesso-DC\school-api\src\main\java\com\school\api\model\entities\EnrolledSubjectEntity.java
+C:\Users\castrote\Documents\PSL\Spring-Kinesso-DC\school-api\src\main\java\com\school\api\model\dto\BestNoteDto.java
+C:\Users\castrote\Documents\PSL\Spring-Kinesso-DC\school-api\src\main\java\com\school\api\model\dto\Subject.java
+C:\Users\castrote\Documents\PSL\Spring-Kinesso-DC\school-api\src\main\java\com\school\api\model\entities\StudentEntity.java
+C:\Users\castrote\Documents\PSL\Spring-Kinesso-DC\school-api\src\main\java\com\school\api\model\dto\StudentDto.java
+C:\Users\castrote\Documents\PSL\Spring-Kinesso-DC\school-api\src\main\java\com\school\api\repository\SubjectRepository.java
+C:\Users\castrote\Documents\PSL\Spring-Kinesso-DC\school-api\src\main\java\com\school\api\service\SubjectService.java
+C:\Users\castrote\Documents\PSL\Spring-Kinesso-DC\school-api\src\main\java\com\school\api\model\entities\key\EnrolledSubjectEntityId.java
+C:\Users\castrote\Documents\PSL\Spring-Kinesso-DC\school-api\src\main\java\com\school\api\repository\StudentRepository.java

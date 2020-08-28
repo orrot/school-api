@@ -9,7 +9,9 @@ import java.io.Serializable;
 @Setter
 public class EnrolledSubjectEntityId implements Serializable {
 
-    private String subjectId;
+	private static final long serialVersionUID = -6626419491660856508L;
+	private String subjectId;
     private String studentId;
-    private Double note;
+    //private Double note;
+
 }
